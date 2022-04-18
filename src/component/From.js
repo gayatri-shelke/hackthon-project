@@ -1,9 +1,10 @@
 import React from 'react'
-
+// import images from '../human.jpg'
 const from=()=>{
     return(
         <box>
             <div className='container'>
+            {/* <img src={images} width="100" height="50" /> */}
                 <div className='app_wrapper'>
                     <div>
                         <center>
